@@ -1,6 +1,8 @@
 > :warning: This repo is retired. There will be no updates. We recommend using https://velero.io/ instead
 > which has far more features and a community to maintain it.
 
+[![Deprecated](https://img.shields.io/badge/Pantheon-Deprecated-yellow?logo=pantheon&color=FFDC28)](https://pantheon.io/docs/oss-support-levels#deprecated)
+
 kube-backup
 ===========
 
